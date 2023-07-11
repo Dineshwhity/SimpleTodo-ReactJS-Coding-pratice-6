@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.Todo-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
+.Title{
+    color: #000000;
+    font-family: Roboto;
+    font-size: 24px;
+}
+button{
+    color: #ff0b37;
+    background-color: #ffffff;
+    border-color: #ff0b37;
+    font-family: Roboto;
+    font-size: 24px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-top: 4px;
+    margin-left: 16px;
+    outline: none;
+    cursor: pointer;
+}
